@@ -38,3 +38,7 @@ To run this program, you can follow these steps:
 After execution, you should see the contents of the file printed to the terminal, showing both the written and appended lines. You can also open the generated example.txt file using a text editor to verify that it contains the expected text.
 
 This task serves as a foundation for learning how real-world programs interact with the file system, including log creation, configuration file management, and basic data storage. Mastery of file handling is crucial for building robust, user-interactive, and persistent applications in C.
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/2e022243-6498-4c0f-80e8-4dc0b3b84bab)
