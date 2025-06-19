@@ -12,7 +12,7 @@
 
 *MENTOR*: NEELA SANTHOSH
 
-*DESCRIPTION OF TASK 1*
+*DESCRIPTION OF TASK 1*: 
           File handling is one of the most essential features of the C programming language, enabling developers to store data permanently on the system’s file system. Unlike variables, which store data temporarily in memory (RAM), files provide a way to write, store, and retrieve data even after a program finishes executing. In this task, we demonstrate basic file operations: creating a file, writing to it, appending data, and finally reading from the file.
 
 This C program uses the standard I/O library <stdio.h> to manage file operations. It starts by defining a character array named filename to specify the file we want to work with. In this case, the file is named "example.txt". The file pointer FILE* file is used to handle all interactions with the file.
